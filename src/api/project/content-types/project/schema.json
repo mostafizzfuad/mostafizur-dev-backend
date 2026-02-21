@@ -31,6 +31,9 @@
     "url": {
       "type": "string"
     },
+    "githubUrl": {
+      "type": "string"
+    },
     "date": {
       "type": "date"
     },
